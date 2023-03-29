@@ -1,0 +1,11 @@
+jsonwebtoken - for getting the authentication token
+
+express-validator - for implemneting validations
+
+express - for accesing express.js
+
+bcryptjs  - for hashing the password using salt
+
+nodemon - to run the backend app
+
+mongoose - to set management with mongoDB
